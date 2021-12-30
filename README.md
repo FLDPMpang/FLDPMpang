@@ -3,7 +3,7 @@
 
 - 🌱 An undergraduate student of electronic information engineering
 - 👯 Open source enthusiast
-- 🔭 Currently studying in Yantai, China
+- 🔭 Currently studying in China
 
 ### 👋都不知道该干什么
 
